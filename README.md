@@ -1,2 +1,1 @@
-# HonorsProject-SR-Inpainting
- 
+# Super Resolution & Image Inpainting
